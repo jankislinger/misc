@@ -1,0 +1,19 @@
+# folder's name:
+__pycache__/
+.idea/
+venv/
+*.egg-info/
+
+# logging
+*.out
+
+# file's extension:
+*.zip
+*.rar
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.pdf
+*.csv
+*.h5
